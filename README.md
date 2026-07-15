@@ -1,9 +1,5 @@
-<div align="center">
-
-
-<img src="<img width="736" height="737" alt="kju" src="https://github.com/user-attachments/assets/7aca26b3-a6df-4d30-a723-e55478a8ccdb" />
-" width="100%">
-
+\<div align="center">
+<img src="https://github.com/user-attachments/assets/7aca26b3-a6df-4d30-a723-e55478a8ccdb" width="100%">
 <br><br>
 
 # WELGARDO
@@ -37,11 +33,7 @@
 <br>
 
 <div align="center">
-
-
-<img src="<img width="1200" height="1201" alt="ce" src="https://github.com/user-attachments/assets/c7998fbd-d922-4a50-ad53-36acf51af380" />
-" width="450">
-
+<img src="https://github.com/user-attachments/assets/c7998fbd-d922-4a50-ad53-36acf51af380" width="450">
 </div>
 
 <br>
